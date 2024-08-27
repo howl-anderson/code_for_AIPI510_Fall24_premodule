@@ -1,0 +1,7 @@
+Artificial intelligence
+Machine learning
+Deep learning
+computer vision
+Natural language processing
+Generative pre-trained transformers
+large language model
